@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+
+# ASP.NET
+*.db
+*.log
+
+# Others
+*.DS_Store
+*.idea/
+*.env
